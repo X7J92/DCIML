@@ -1,4 +1,4 @@
-# Dual-task Mutual Reinforcing Embedded Joint Video Paragraph Retrieval and Grounding
+# 	Dual-Branch Collaborative Implicit-Explicit Mutual Learning for Weakly Supervised Video-Sentence Retrieval and Grounding
 
 <div align="center">
     <img src="images/01.png" alt="Main results on TACoS" width="400">
