@@ -14,13 +14,7 @@ Abstract:Video-Sentence Retrieval and Grounding (VSRG) task aims to retrieve the
 
 
 #### Main results on ActivityNet Captions and Charades-STA
-![alt text](images/t1.png)
-
-#### Main results on TACoS
-
-<div align="center">
-    <img src="images/t2.png" alt="Main results on TACoS" width="550">
-</div>
+![alt text](images/03.png)
 
 
 ## Prerequisites
