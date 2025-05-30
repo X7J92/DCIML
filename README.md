@@ -10,7 +10,7 @@ Abstract:Video-Sentence Retrieval and Grounding (VSRG) task aims to retrieve the
 - :beers:  Our paper has been submitted to the TIP.
 
 ## Framework
-![alt text](images/03.png)
+![alt text](images/02.png)
 
 ## Main Results
 
